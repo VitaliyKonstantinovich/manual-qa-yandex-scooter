@@ -1,0 +1,10 @@
+# Local source files
+original/*.xlsx
+original/*.xls
+original/*.xlsm
+~$*.xlsx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
